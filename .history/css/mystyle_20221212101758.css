@@ -1,0 +1,13 @@
+.badge-text {
+    padding: 10px 15px;
+    margin: 5px 5px;
+    border-radius: 5px;
+    width: max-content;
+   
+}
+.badge-text.code {
+     background-color: aliceblue;
+}
+.badge-text.design {
+     background-color: #b7ddff;
+}

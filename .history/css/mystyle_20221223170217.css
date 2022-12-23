@@ -1,0 +1,96 @@
+/* 
+body {
+   background-color:  #f2f6ff;
+} */
+p {
+    color: #727272;
+}
+.text-right {
+    text-align: right;
+}
+.mg-30 {
+    margin: 30px 0px;
+}
+.purple-deep {
+    color: #2626bc;
+}
+.purple-light {
+    color: #6583fe;
+}
+.purple-trans {
+    color:#7993f7;
+}
+.badge-text {
+    padding: 15px 20px;
+    margin: 5px 5px;
+    text-align: justify;
+    vertical-align: middle;
+    width: max-content;
+    border-radius: 15px;
+   
+}
+.badge-text.code {
+    background-color: #f0f8ff;
+    background: linear-gradient(180deg,rgba(255,153,80,.1),rgba(129, 177, 255, 0.1));
+}
+.badge-text.design {
+    background-color: #fff3b7;
+    background: linear-gradient(180deg,rgba(255,153,80,.1),rgba(184,129,255,.1));
+    
+}
+.card-skills{
+    color: #6583fe;
+    background: #fefefe;
+    border-radius: 16px;
+    border: 2px solid #ebebeb;
+    padding: 50px 35px;
+    margin: 30px;
+    box-shadow: 0 10px 30px rgba(184,129,255,.1);
+}
+.card-icon {
+    text-align: center;
+    display: block;
+    width: 80px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+.icon-logo {
+    max-width: 20px;
+    height: auto;
+}
+.office-logo {
+    max-width: 75px;
+    margin-bottom: 20px;
+}
+.align-end {
+    text-align: right;
+}
+.align-end a {
+    text-decoration: none;
+    color: #6fb9fa;
+}
+.align-end a:hover {
+    color:#54adfa;
+}
+small > i {
+    margin-right: 6px;
+}
+a.btn.btn-outline-primary {
+    margin: 10px 0;
+    color:  #6fb9fa;
+    border: 2px solid #6fb9fa;
+    
+}
+a.btn.btn-outline-primary:hover {
+    color:  #ffffff;
+    border-color: #54adfa;
+    background-color:  #54adfa;
+}
+@media (max-width:450px) {
+    .vertical-line {
+        border-left: 2px solid #e3e3e3;
+        margin-left: 15px;
+    }
+}

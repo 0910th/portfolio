@@ -1,0 +1,16 @@
+.badge-text {
+    padding: 10px 15px;
+    margin: 5px 5px;
+    border-radius: 5px;
+    width: max-content;
+   
+}
+.badge-text.code {
+    background-color: #f0f8ff;
+}
+.badge-text.design {
+    background-color: #fff3b7;
+}
+.text-list ul li {
+    /* list-style: none; */
+}
